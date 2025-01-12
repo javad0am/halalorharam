@@ -9,7 +9,7 @@
    ```
 
 2. **تنظیم API Key**:  
-   برای استفاده از مدل Gemini، باید کلید API خود را در کد وارد کنید. این کلید را می‌توانید از طریق [Google Cloud Console](https://ai.google.dev/) دریافت کنید.  
+   برای استفاده از مدل Gemini، باید کلید API خود را در کد وارد کنید. این کلید را می‌توانید از طریق [google ai studio ](https://ai.google.dev/) دریافت کنید.  
    ```python
    genai.configure(api_key="YOUR_API_KEY_HERE")
    ```
